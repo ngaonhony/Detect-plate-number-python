@@ -10,6 +10,6 @@
 
 ```Gherkin 
 Given 
-When
+When 
 Then 
 ```
