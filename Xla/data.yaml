@@ -1,0 +1,5 @@
+train: C:/Users/ADMIN/PycharmProjects/Detect-plate-number/Xla/yolo_plate_dataset/images/train
+val: C:/Users/ADMIN/PycharmProjects/Detect-plate-number/Xla/yolo_plate_dataset/images/val
+
+nc: 1  # Số lượng lớp (cập nhật nếu cần)
+names: ['class_name']  # Tên lớp (cập nhật nếu cần)
